@@ -1158,7 +1158,7 @@ letter-spacing: 0.02em;
             url(../images/ofiice-tab.jpg);
     }
 
-    @media (-webkit-min-device-pixel-ratio: 2),
+ <!--   @media (-webkit-min-device-pixel-ratio: 2),
     (min-resolution: 192dpi) {
         .section-one {
             background-image: linear-gradient(rgba(46, 47, 66, 0.7),
@@ -1277,7 +1277,7 @@ letter-spacing: 0.02em;
         width: 408px;
     }
 }
-
+  -->
 
 @media screen and (min-width: 1158px) {
     .container {
